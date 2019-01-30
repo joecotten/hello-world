@@ -1,4 +1,4 @@
 # hello-world
 1st repository
 
-heklo world document 1
+hello world document 1
